@@ -1,18 +1,17 @@
-# Profile: <Seu Nome Completo>
-
-> **Role atual:** [Ex: Desenvolvedor Backend / Analista de Infra / Estudante]  
-> **Status:** [Ex: Migrando para Segurança / Especializando em Cloud]
+# Profile: Diego Renato dos Santos
+> **Role atual:** Analista Júnior de Suporte de TI
+> **Status:** Anteriormente desenvolvedor
 
 ## 🛠️ Stack Principal
-- [Tecnologia/Ferramenta 1]
-- [Tecnologia/Ferramenta 2]
-- [...]
+- .NET
+- SpringBoot
+- AngularJS
 
 ## 🛡️ Pipeline da Carreira
-1. **História:** Sua carreira a partir dos principais marcos: início, principais mudanças e o que levou à posição atual.
-2. **Objetivos:** Como espera que o curso seja e o que acha que vai aprender.
-3. **Expectativas:** O que te motivou a fazer a trilha DevSecOps.
+1. **História:** Formado em Ciência da computação, tendo trabalhado como desenvolvedor desde na área desde 2008 até atuar na Caixa Econômica.
+2. **Objetivos:** Espero que eu possoa "desenferrujar" nas práticas de Devsecops; aprender a melhorar os conhecimentos de integração.
+3. **Expectativas:** Expandir os conhecimentos de devsecops, visto que considero ter conhecimento insuficiente.
 
 ## 💬 Commit Summary
-`feat(profile): adiciona perfil de <seu-nome>`
-`feat(carreira): <cargo atual>; goal: <objetivos>; expect: <expectativas>`
+`feat(profile): adiciona perfil de diego-santos`
+`feat(carreira): analista de suporte de TI; goal: avançar conhecimentos devops; expect: aumentar os conhecimentos da área para aplicar ao desenvolvimento`
